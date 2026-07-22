@@ -12,3 +12,7 @@ streamlit/
 
 
 dist/
+
+.streamlit/secrets.toml
+src/streamlit/secrets.toml
+
