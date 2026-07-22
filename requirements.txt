@@ -1,5 +1,5 @@
 # Utilities
-
+streamlit
 numpy
 pandas
 
@@ -19,4 +19,7 @@ segno     #QR CODE GENERATION FROM URLS
 
 pillow    #IMAGE PREPROCESSING
 
-streamlit
+
+
+librosa    #VOICE ATTENDANCE
+resemblyzer  #VOICE EMBEDDING

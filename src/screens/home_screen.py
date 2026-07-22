@@ -1,6 +1,7 @@
 import streamlit as st
 
 from src.screens.components.header import header_home
+from src.screens.components.footer import footer_home
 
 from src.screens.ui.base_layout import style_base_layout , style_background_home 
 
